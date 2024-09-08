@@ -118,518 +118,518 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BatchExportURLSuccessfully" xml:space="preserve">
-    <value>Экспортирование URL в буфер обмена успешно завершено</value>
+    <value>Export Share Link to Clipboard Successfully</value>
   </data>
   <data name="CheckServerSettings" xml:space="preserve">
-    <value>Пожалуйста, сначала проверьте настройки сервера</value>
+    <value>Please check the server settings first</value>
   </data>
   <data name="ConfigurationFormatIncorrect" xml:space="preserve">
-    <value>Недопустимый формат конфигурации</value>
+    <value>Invalid configuration format</value>
   </data>
   <data name="CustomServerTips" xml:space="preserve">
-    <value>Обратите внимание, что пользовательская конфигурация полностью зависит от вашей собственной конфигурации и работает не со всеми настройками. Если вы хотите использовать системный прокси, пожалуйста, измените порт прослушивания вручную.</value>
+    <value>Note that custom configuration relies entirely on your own configuration and does not work with all settings. If you want to use the system proxy, please modify the listening port manually.</value>
   </data>
   <data name="Downloading" xml:space="preserve">
-    <value>Загрузка...</value>
+    <value>Downloading...</value>
   </data>
   <data name="downloadSpeed" xml:space="preserve">
-    <value>Скорость загрузки</value>
+    <value>Download</value>
   </data>
   <data name="DownloadYesNo" xml:space="preserve">
-    <value>Хотите загрузить? {0}</value>
+    <value>Whether to download? {0}</value>
   </data>
   <data name="FailedConversionConfiguration" xml:space="preserve">
-    <value>Не удалось преобразовать файл конфигурации</value>
+    <value>Failed to convert configuration file</value>
   </data>
   <data name="FailedGenDefaultConfiguration" xml:space="preserve">
-    <value>Не удалось создать файл конфигурации по умолчаниюe</value>
+    <value>Failed to generate default configuration file</value>
   </data>
   <data name="FailedGetDefaultConfiguration" xml:space="preserve">
-    <value>Не удалось получить конфигурацию по умолчанию</value>
+    <value>Failed to get the default configuration</value>
   </data>
   <data name="FailedImportedCustomServer" xml:space="preserve">
-    <value>Не удалось импортировать сервер пользовательской конфигурации</value>
+    <value>Failed to import custom configuration server</value>
   </data>
   <data name="FailedReadConfiguration" xml:space="preserve">
-    <value>Не удалось прочитать файл конфигурации</value>
+    <value>Failed to read configuration file</value>
   </data>
   <data name="FillCorrectServerPort" xml:space="preserve">
-    <value>Пожалуйста, укажите порт сервера в правильном формате</value>
+    <value>Please fill in the correct format server port</value>
   </data>
   <data name="FillLocalListeningPort" xml:space="preserve">
-    <value>Пожалуйста, укажите локальный порт прослушивания</value>
+    <value>Please fill in the local listening port</value>
   </data>
   <data name="FillPassword" xml:space="preserve">
-    <value>Пожалуйста, введите пароль</value>
+    <value>Please fill in the password</value>
   </data>
   <data name="FillServerAddress" xml:space="preserve">
-    <value>Пожалуйста, заполните адрес сервера</value>
+    <value>Please fill in the server address</value>
   </data>
   <data name="FillUUID" xml:space="preserve">
-    <value>Пожалуйста, заполните идентификатор пользователя</value>
+    <value>Please fill in the user ID</value>
   </data>
   <data name="Incorrectconfiguration" xml:space="preserve">
-    <value>Некорректная конфигурация, пожалуйста, проверьте</value>
+    <value>Is not the correct configuration, please check</value>
   </data>
   <data name="InitialConfiguration" xml:space="preserve">
-    <value>Исходная конфигурация</value>
+    <value>Initial Configuration</value>
   </data>
   <data name="IsLatestCore" xml:space="preserve">
-    <value>{0} {1} является последней версией.</value>
+    <value>{0} {1} already up to date.</value>
   </data>
   <data name="IsLatestN" xml:space="preserve">
-    <value>{0} {1} является последней версией.</value>
+    <value>{0} {1} already up to date.</value>
   </data>
   <data name="LvAddress" xml:space="preserve">
-    <value>Адрес</value>
+    <value>Address</value>
   </data>
   <data name="LvEncryptionMethod" xml:space="preserve">
-    <value>Безопасность</value>
+    <value>Security</value>
   </data>
   <data name="LvPort" xml:space="preserve">
-    <value>Порт</value>
+    <value>Port</value>
   </data>
   <data name="LvServiceType" xml:space="preserve">
-    <value>Тип</value>
+    <value>Type</value>
   </data>
   <data name="LvSubscription" xml:space="preserve">
-    <value>Группа подписки</value>
+    <value>Subs group</value>
   </data>
   <data name="LvTodayDownloadDataAmount" xml:space="preserve">
-    <value>Загружено трафика сегодня</value>
+    <value>Download traffic today</value>
   </data>
   <data name="LvTodayUploadDataAmount" xml:space="preserve">
-    <value>Отдано трафика сегодня</value>
+    <value>Upload traffic today</value>
   </data>
   <data name="LvTotalDownloadDataAmount" xml:space="preserve">
-    <value>Всего загружено</value>
+    <value>Total download traffic</value>
   </data>
   <data name="LvTotalUploadDataAmount" xml:space="preserve">
-    <value>Всего отдано</value>
+    <value>Total upload traffic</value>
   </data>
   <data name="LvTransportProtocol" xml:space="preserve">
-    <value>Протокол</value>
+    <value>Transport</value>
   </data>
   <data name="MsgClearSubscription" xml:space="preserve">
-    <value>Очистить контент оригинальной подписки</value>
+    <value>Clear original subscription content</value>
   </data>
   <data name="MsgDownloadV2rayCoreSuccessfully" xml:space="preserve">
-    <value>Ядро успешно загружено</value>
+    <value>Download Core successfully</value>
   </data>
   <data name="MsgFailedImportSubscription" xml:space="preserve">
-    <value>Не удалось импортировать содержимое подписки</value>
+    <value>Failed to import subscription content</value>
   </data>
   <data name="MsgGetSubscriptionSuccessfully" xml:space="preserve">
-    <value>Содержимое подписки успешно импортировано</value>
+    <value>Get subscription content successfully</value>
   </data>
   <data name="MsgNoValidSubscription" xml:space="preserve">
-    <value>Нет установлены подписки</value>
+    <value>No valid subscriptions set</value>
   </data>
   <data name="MsgParsingSuccessfully" xml:space="preserve">
-    <value>Парсинг {0} прошел успешно</value>
+    <value>Resolve {0} successfully</value>
   </data>
   <data name="MsgStartGettingSubscriptions" xml:space="preserve">
-    <value>Начинаю получать подписки</value>
+    <value>Start getting subscriptions</value>
   </data>
   <data name="MsgStartUpdating" xml:space="preserve">
-    <value>Начинаю обновление {0}...</value>
+    <value>Start updating {0}...</value>
   </data>
   <data name="MsgSubscriptionDecodingFailed" xml:space="preserve">
-    <value>Некорректное содержимое подписки</value>
+    <value>Invalid subscription content</value>
   </data>
   <data name="MsgUnpacking" xml:space="preserve">
-    <value>распаковывается...</value>
+    <value>Is unpacking......</value>
   </data>
   <data name="MsgUpdateSubscriptionEnd" xml:space="preserve">
-    <value>Обновление подписки закончено</value>
+    <value>Update subscriptions end</value>
   </data>
   <data name="MsgUpdateSubscriptionStart" xml:space="preserve">
-    <value>Обновление подписки начинается</value>
+    <value>Update subscriptions start</value>
   </data>
   <data name="MsgUpdateV2rayCoreSuccessfully" xml:space="preserve">
-    <value>Успешное обновление ядра</value>
+    <value>Update Core successfully</value>
   </data>
   <data name="MsgUpdateV2rayCoreSuccessfullyMore" xml:space="preserve">
-    <value>Успешное обновление ядра! Перезапуск службы...</value>
+    <value>Update Core successfully! Restarting service...</value>
   </data>
   <data name="NonvmessOrssProtocol" xml:space="preserve">
-    <value>Не является протоколом Vmess или SS</value>
+    <value>Non-VMess or ss protocol</value>
   </data>
   <data name="NotFoundCore" xml:space="preserve">
-    <value>Файл Core (имя файла: {1}) не найден в папке ({0}), загрузите и поместите его в папку, адрес загрузки: {2}</value>
+    <value>The Core file (file name: {1}) was not found under the folder ({0}), please download and put it in the folder, download address: {2}</value>
   </data>
   <data name="NoValidQRcodeFound" xml:space="preserve">
-    <value>Сканирование завершено, не найден корректный QR код</value>
+    <value>Scan completed, no valid QR code found</value>
   </data>
   <data name="OperationFailed" xml:space="preserve">
-    <value> операция безуспешна, проверьте и попробуйте ещё раз</value>
+    <value>Operation failed, please check and retry</value>
   </data>
   <data name="PleaseFillRemarks" xml:space="preserve">
-    <value>Пожалуйста, заполните примечания</value>
+    <value>Please Fill Remarks</value>
   </data>
   <data name="PleaseSelectEncryption" xml:space="preserve">
-    <value>Пожалуйста, выберите метод шифрования</value>
+    <value>Please select the encryption method</value>
   </data>
   <data name="PleaseSelectProtocol" xml:space="preserve">
-    <value>Пожалуйста, выберите протокол</value>
+    <value>Please select a protocol</value>
   </data>
   <data name="PleaseSelectServer" xml:space="preserve">
-    <value>Сначала выберите сервер</value>
+    <value>Please select the server first</value>
   </data>
   <data name="RemoveDuplicateServerResult" xml:space="preserve">
-    <value>Удаление дублей завершено. Старая: {0}, Новая: {1}.</value>
+    <value>Servers deduplication completed. Old: {0}, New: {1}.</value>
   </data>
   <data name="RemoveServer" xml:space="preserve">
-    <value>Вы уверены, что хотите удалить сервер?</value>
+    <value>Are you sure to remove the server?</value>
   </data>
   <data name="SaveClientConfigurationIn" xml:space="preserve">
-    <value>Файл конфигурации клиента сохранен по адресу: {0}</value>
+    <value>The client configuration file is saved at: {0}</value>
   </data>
   <data name="StartService" xml:space="preserve">
-    <value>Запуск сервиса ({0})...</value>
+    <value>Start service ({0})...</value>
   </data>
   <data name="SuccessfulConfiguration" xml:space="preserve">
-    <value>Конфигурация успешна
+    <value>Configuration successful
 {0}</value>
   </data>
   <data name="SuccessfullyImportedCustomServer" xml:space="preserve">
-    <value>Пользовательский сервер конфигурации успешно импортирован.</value>
+    <value>Custom configuration server imported successfully</value>
   </data>
   <data name="SuccessfullyImportedServerViaClipboard" xml:space="preserve">
-    <value>{0} серверов импортировано из буфера обмена.</value>
+    <value>{0} servers have been imported from clipboard</value>
   </data>
   <data name="SuccessfullyImportedServerViaScan" xml:space="preserve">
-    <value>Сканирование URL-адреса импорта успешна.</value>
+    <value>Scan import the shared link successfully</value>
   </data>
   <data name="TestMeOutput" xml:space="preserve">
-    <value>Задержка текущего сервера: {0} мс</value>
+    <value>The ping of current service: {0} ms</value>
   </data>
   <data name="OperationSuccess" xml:space="preserve">
-    <value>Операция успешна</value>
+    <value>Operation success</value>
   </data>
   <data name="PleaseSelectRules" xml:space="preserve">
-    <value>Выберите правила</value>
+    <value>Please select rules</value>
   </data>
   <data name="RemoveRules" xml:space="preserve">
-    <value>Вы уверены, что хотите удалить правила?</value>
+    <value>Are you sure to remove the rules?</value>
   </data>
   <data name="RoutingRuleDetailRequiredTips" xml:space="preserve">
-    <value>{0}, Один из обязательных..</value>
+    <value>{0},One of the required.</value>
   </data>
   <data name="LvRemarks" xml:space="preserve">
-    <value>Примечания</value>
+    <value>Remarks</value>
   </data>
   <data name="LvUrl" xml:space="preserve">
-    <value>URL (необязательно)</value>
+    <value>URL(Optional)</value>
   </data>
   <data name="LvCount" xml:space="preserve">
-    <value>Количество</value>
+    <value>Count</value>
   </data>
   <data name="MsgNeedUrl" xml:space="preserve">
-    <value>Пожалуйста, заполните адрес (Url)</value>
+    <value>Please fill in the URL</value>
   </data>
   <data name="AddBatchRoutingRulesYesNo" xml:space="preserve">
-    <value>Вы хотите добавить правила? Выберите «Да», чтобы добавить, выберите иное, чтобы заменить</value>
+    <value>Do you want to append rules? Choose yes to append, choose otherwise to replace</value>
   </data>
   <data name="MsgDownloadGeoFileSuccessfully" xml:space="preserve">
-    <value>Загрузка GeoFile: {0} успешна</value>
+    <value>Download GeoFile: {0} successfully</value>
   </data>
   <data name="MsgInformationTitle" xml:space="preserve">
-    <value>Информация</value>
+    <value>Information</value>
   </data>
   <data name="LvCustomIcon" xml:space="preserve">
-    <value>Пользовательская иконка</value>
+    <value>Custom Icon</value>
   </data>
   <data name="FillCorrectDNSText" xml:space="preserve">
-    <value>Пожалуйста, заполните правильный пользовательский DNS</value>
+    <value>Please fill in the correct custom DNS</value>
   </data>
   <data name="TransportPathTip1" xml:space="preserve">
-    <value>*ws путь</value>
+    <value>*ws/httpupgrade/splithttp path</value>
   </data>
   <data name="TransportPathTip2" xml:space="preserve">
-    <value>*h2 путь</value>
+    <value>*h2 path</value>
   </data>
   <data name="TransportPathTip3" xml:space="preserve">
-    <value>*QUIC ключ/Kcp seed</value>
+    <value>*QUIC key/KCP seed</value>
   </data>
   <data name="TransportPathTip4" xml:space="preserve">
     <value>*grpc serviceName</value>
   </data>
   <data name="TransportRequestHostTip1" xml:space="preserve">
-    <value>*http хосты разделенные запятыми (,)</value>
+    <value>*http host Separated by commas (,)</value>
   </data>
   <data name="TransportRequestHostTip2" xml:space="preserve">
-    <value>*ws хост</value>
+    <value>*ws/httpupgrade/splithttp host</value>
   </data>
   <data name="TransportRequestHostTip3" xml:space="preserve">
-    <value>*h2 хосты разделенные запятыми (,)</value>
+    <value>*h2 host Separated by commas (,)</value>
   </data>
   <data name="TransportRequestHostTip4" xml:space="preserve">
-    <value>* безопасность QUIC</value>
+    <value>*QUIC security</value>
   </data>
   <data name="TransportHeaderTypeTip1" xml:space="preserve">
-    <value>* тип TCP камуфляжа</value>
+    <value>*tcp camouflage type</value>
   </data>
   <data name="TransportHeaderTypeTip2" xml:space="preserve">
-    <value>* тип KCP камуфляжа</value>
+    <value>*kcp camouflage type</value>
   </data>
   <data name="TransportHeaderTypeTip3" xml:space="preserve">
-    <value>* тип QUIC камуфляжа</value>
+    <value>*QUIC camouflage type</value>
   </data>
   <data name="TransportHeaderTypeTip4" xml:space="preserve">
-    <value>* режим grpc</value>
+    <value>*grpc mode</value>
   </data>
   <data name="LvTLS" xml:space="preserve">
     <value>TLS</value>
   </data>
   <data name="TransportPathTip5" xml:space="preserve">
-    <value>*Kcp seed</value>
+    <value>*kcp seed</value>
   </data>
   <data name="RegisterGlobalHotkeyFailed" xml:space="preserve">
-    <value>Не удалось зарегистрировать глобальную горячую клавишу {0}, причина: {1}</value>
+    <value>Global hotkey {0} registered failed, reason {1}</value>
   </data>
   <data name="RegisterGlobalHotkeySuccessfully" xml:space="preserve">
-    <value>Глобальная горячая клавиша {0} зарегистрирована успешно</value>
+    <value>Global hotkey {0} registered successfully</value>
   </data>
   <data name="UngroupedServers" xml:space="preserve">
-    <value>Разгруппировано</value>
+    <value>Ungrouped</value>
   </data>
   <data name="AllGroupServers" xml:space="preserve">
-    <value>Все сервера</value>
+    <value>All</value>
   </data>
   <data name="FillServerAddressCustom" xml:space="preserve">
-    <value>Пожалуйста, просмотрите, чтобы импортировать конфигурацию сервера</value>
+    <value>Please browse to import server configuration</value>
   </data>
   <data name="Speedtesting" xml:space="preserve">
-    <value>Тестирование...</value>
+    <value>Testing...</value>
   </data>
   <data name="LabLAN" xml:space="preserve">
     <value>LAN</value>
   </data>
   <data name="LabLocal" xml:space="preserve">
-    <value>Локальный</value>
+    <value>Local</value>
   </data>
   <data name="MsgServerTitle" xml:space="preserve">
-    <value>Фильтр серверов</value>
+    <value>Servers Filter, press Enter to execute</value>
   </data>
   <data name="menuCheckUpdate" xml:space="preserve">
-    <value>Проверить обновления</value>
+    <value>Check Update</value>
   </data>
   <data name="menuClose" xml:space="preserve">
-    <value>Закрыть</value>
+    <value>Close</value>
   </data>
   <data name="menuExit" xml:space="preserve">
-    <value>Выход</value>
+    <value>Exit</value>
   </data>
   <data name="menuGlobalHotkeySetting" xml:space="preserve">
-    <value>Глобальная настройка горячих клавиш</value>
+    <value>Global Hotkey Setting</value>
   </data>
   <data name="menuHelp" xml:space="preserve">
-    <value>Помощь</value>
+    <value>Help</value>
   </data>
   <data name="menuOptionSetting" xml:space="preserve">
-    <value>Настройка параметров</value>
+    <value>Option Setting</value>
   </data>
   <data name="menuPromotion" xml:space="preserve">
-    <value>Содействие</value>
+    <value>Promotion</value>
   </data>
   <data name="menuReload" xml:space="preserve">
-    <value>Перезагрузка</value>
+    <value>Reload</value>
   </data>
   <data name="menuRoutingSetting" xml:space="preserve">
-    <value>Настройки маршрутизации</value>
+    <value>Routing Setting</value>
   </data>
   <data name="menuServers" xml:space="preserve">
-    <value>Сервера</value>
+    <value>Servers</value>
   </data>
   <data name="menuSetting" xml:space="preserve">
-    <value>Настройки</value>
+    <value>Settings</value>
   </data>
   <data name="menuSubGroupUpdate" xml:space="preserve">
-    <value>Обновить текущую подписку без прокси</value>
+    <value>Update current subscription without proxy</value>
   </data>
   <data name="menuSubGroupUpdateViaProxy" xml:space="preserve">
-    <value>Обновить текущую подписку с прокси</value>
+    <value>Update current subscription with proxy</value>
   </data>
   <data name="menuSubscription" xml:space="preserve">
-    <value>Группа подписки</value>
+    <value>Subscription Group</value>
   </data>
   <data name="menuSubSetting" xml:space="preserve">
-    <value>Настройки группы подписки</value>
+    <value>Subscription group settings</value>
   </data>
   <data name="menuSubUpdate" xml:space="preserve">
-    <value>Обновить подписку без прокси</value>
+    <value>Update subscriptions without proxy</value>
   </data>
   <data name="menuSubUpdateViaProxy" xml:space="preserve">
-    <value>Обновить подписку с прокси</value>
+    <value>Update subscriptions with proxy</value>
   </data>
   <data name="menuSystemproxy" xml:space="preserve">
-    <value>Системный прокси</value>
+    <value>System proxy</value>
   </data>
   <data name="menuSystemProxyClear" xml:space="preserve">
-    <value>Очистить системный прокси</value>
+    <value>Clear system proxy</value>
   </data>
   <data name="menuSystemProxyNothing" xml:space="preserve">
-    <value>Не менять системный прокси</value>
+    <value>Do not change system proxy</value>
   </data>
   <data name="menuSystemProxyPac" xml:space="preserve">
-    <value>Режим PAC</value>
+    <value>PAC mode</value>
   </data>
   <data name="menuSystemProxySet" xml:space="preserve">
-    <value>Установить системный прокси</value>
+    <value>Set system proxy</value>
   </data>
   <data name="TbSettingsColor" xml:space="preserve">
-    <value>Цвет</value>
+    <value>Color</value>
   </data>
   <data name="TbSettingsColorMode" xml:space="preserve">
-    <value>Тёмный режим</value>
+    <value>Dark Mode</value>
   </data>
   <data name="TbSettingsFollowSystemTheme" xml:space="preserve">
-    <value>Следить за системной темой</value>
+    <value>Follow System Theme</value>
   </data>
   <data name="TbSettingsLanguage" xml:space="preserve">
-    <value>Язык (требуется перезапуск)</value>
+    <value>Language (Restart)</value>
   </data>
   <data name="menuAddServerViaClipboard" xml:space="preserve">
-    <value>Импорт массива URL из буфера обмена (Ctrl+V)</value>
+    <value>Importing Share Links from clipboard (Ctrl+V)</value>
   </data>
   <data name="menuAddServerViaScan" xml:space="preserve">
-    <value>Сканировать QR-код с экрана (Ctrl+S)</value>
+    <value>Scan QR code on the screen (Ctrl+S)</value>
   </data>
   <data name="menuCopyServer" xml:space="preserve">
-    <value>Клонировать выбранный сервер</value>
+    <value>Clone selected server</value>
   </data>
   <data name="menuRemoveDuplicateServer" xml:space="preserve">
-    <value>Удалить дубликаты серверов</value>
+    <value>Remove duplicate servers</value>
   </data>
   <data name="menuRemoveServer" xml:space="preserve">
-    <value>Удалить выбранные серверы (Delete)</value>
+    <value>Remove selected servers (Delete)</value>
   </data>
   <data name="menuSetDefaultServer" xml:space="preserve">
-    <value>Установить как активный сервер (Enter)</value>
+    <value>Set as active server (Enter)</value>
   </data>
   <data name="menuClearServerStatistics" xml:space="preserve">
-    <value>Очистить всю статистику</value>
+    <value>Clear all service statistics</value>
   </data>
   <data name="menuRealPingServer" xml:space="preserve">
-    <value>Тест на реальную задержку сервера (Ctrl+R)</value>
+    <value>Test servers real delay (Ctrl+R)</value>
   </data>
   <data name="menuSortServerResult" xml:space="preserve">
-    <value>Сортировать по результату теста</value>
+    <value>Sort by test result</value>
   </data>
   <data name="menuSpeedServer" xml:space="preserve">
-    <value>Тест на скорость загрузки сервера (Ctrl+T)</value>
+    <value>Test servers download speed (Ctrl+T)</value>
   </data>
   <data name="menuTcpingServer" xml:space="preserve">
-    <value>Тест задержки с tcping (Ctrl+O)</value>
+    <value>Test servers with tcping (Ctrl+O)</value>
   </data>
   <data name="menuExport2ClientConfig" xml:space="preserve">
-    <value>Экспортировать выбранный сервер для клиента</value>
+    <value>Export selected server for complete configuration</value>
   </data>
   <data name="menuExport2ShareUrl" xml:space="preserve">
-    <value>Экспорт URL-адресов общего доступа в буфер обмена (Ctrl+C)</value>
+    <value>Export Share Link to Clipboard (Ctrl+C)</value>
   </data>
   <data name="menuAddCustomServer" xml:space="preserve">
-    <value>Добавить сервер пользовательской конфигурации</value>
+    <value>Add a custom configuration server</value>
   </data>
   <data name="menuAddShadowsocksServer" xml:space="preserve">
-    <value>Добавить сервер [Shadowsocks]</value>
+    <value>Add [Shadowsocks] server</value>
   </data>
   <data name="menuAddSocksServer" xml:space="preserve">
-    <value>Добавить сервер [Socks]</value>
+    <value>Add [Socks] server</value>
   </data>
   <data name="menuAddTrojanServer" xml:space="preserve">
-    <value>Добавить сервер [Trojan]</value>
+    <value>Add [Trojan] server</value>
   </data>
   <data name="menuAddVlessServer" xml:space="preserve">
-    <value>Добавить сервер [VLESS]</value>
+    <value>Add [VLESS] server</value>
   </data>
   <data name="menuAddVmessServer" xml:space="preserve">
-    <value>Добавить сервер [VMess]</value>
+    <value>Add [VMess] server</value>
   </data>
   <data name="menuSelectAll" xml:space="preserve">
-    <value>Выбрать все (Ctrl+A)</value>
+    <value>Select all (Ctrl+A)</value>
   </data>
   <data name="menuMsgViewClear" xml:space="preserve">
-    <value>Очистить все</value>
+    <value>Clear all</value>
   </data>
   <data name="menuMsgViewCopy" xml:space="preserve">
-    <value>Скопировать (Ctrl+C)</value>
+    <value>Copy (Ctrl+C)</value>
   </data>
   <data name="menuMsgViewCopyAll" xml:space="preserve">
-    <value>Скопировать все</value>
+    <value>Copy all</value>
   </data>
   <data name="menuMsgViewSelectAll" xml:space="preserve">
-    <value>Выбрать все (Ctrl+A)</value>
+    <value>Select all (Ctrl+A)</value>
   </data>
   <data name="menuSubAdd" xml:space="preserve">
-    <value>Добавить</value>
+    <value>Add</value>
   </data>
   <data name="menuSubDelete" xml:space="preserve">
-    <value>Удалить</value>
+    <value>Delete</value>
   </data>
   <data name="menuSubEdit" xml:space="preserve">
-    <value>Редактировать</value>
+    <value>Edit</value>
   </data>
   <data name="menuSubShare" xml:space="preserve">
-    <value>Поделиться</value>
+    <value>Share</value>
   </data>
   <data name="LvEnabled" xml:space="preserve">
-    <value>Включены обновления</value>
+    <value>Enable update</value>
   </data>
   <data name="LvSort" xml:space="preserve">
-    <value>Сортировка</value>
+    <value>Sort</value>
   </data>
   <data name="LvUserAgent" xml:space="preserve">
     <value>User Agent</value>
   </data>
   <data name="TbCancel" xml:space="preserve">
-    <value>Отмена</value>
+    <value>Cancel</value>
   </data>
   <data name="TbConfirm" xml:space="preserve">
-    <value>Подтвердить</value>
+    <value>Confirm</value>
   </data>
   <data name="GbTransport" xml:space="preserve">
-    <value>Транспорт</value>
+    <value>Transport</value>
   </data>
   <data name="TbAddress" xml:space="preserve">
-    <value>Адрес</value>
+    <value>Address</value>
   </data>
   <data name="TbAllowInsecure" xml:space="preserve">
-    <value>Разрешить небезопасные</value>
+    <value>AllowInsecure</value>
   </data>
   <data name="TbAlpn" xml:space="preserve">
     <value>ALPN</value>
   </data>
   <data name="TbAlterId" xml:space="preserve">
-    <value>AlterId</value>
+    <value>AlterID</value>
   </data>
   <data name="TbFingerprint" xml:space="preserve">
-    <value>Отпечаток</value>
+    <value>Fingerprint</value>
   </data>
   <data name="TbHeaderType" xml:space="preserve">
-    <value>Тип камуфляжа</value>
+    <value>Camouflage type</value>
   </data>
   <data name="TbId" xml:space="preserve">
-    <value>UUID (id)</value>
+    <value>UUID(id)</value>
   </data>
   <data name="TbNetwork" xml:space="preserve">
-    <value>Транспортный протокол сети</value>
+    <value>Transport protocol(network)</value>
   </data>
   <data name="TbPath" xml:space="preserve">
-    <value>Путь</value>
+    <value>Path</value>
   </data>
   <data name="TbPort" xml:space="preserve">
-    <value>Порт</value>
+    <value>Port</value>
   </data>
   <data name="TbRemarks" xml:space="preserve">
-    <value>Примечание</value>
+    <value>Alias (remarks)</value>
   </data>
   <data name="TbRequestHost" xml:space="preserve">
-    <value>Маскирующий домен (хост)</value>
+    <value>Camouflage domain(host)</value>
   </data>
   <data name="TbSecurity" xml:space="preserve">
-    <value>Метод шифрования</value>
+    <value>Encryption method (security)</value>
   </data>
   <data name="TbSNI" xml:space="preserve">
     <value>SNI</value>
@@ -638,393 +638,681 @@
     <value>TLS</value>
   </data>
   <data name="TipNetwork" xml:space="preserve">
-    <value>* По-умолчанию TCP</value>
+    <value>*Default value tcp</value>
   </data>
   <data name="TbCoreType" xml:space="preserve">
-    <value>Ядро</value>
+    <value>Core Type</value>
   </data>
   <data name="TbFlow5" xml:space="preserve">
-    <value>Поток</value>
+    <value>Flow</value>
   </data>
   <data name="TbGUID" xml:space="preserve">
-    <value>Генерировать</value>
+    <value>Generate</value>
   </data>
   <data name="TbId3" xml:space="preserve">
-    <value>Пароль</value>
+    <value>Password</value>
   </data>
   <data name="TbId4" xml:space="preserve">
-    <value>Пароль(Необязательно)</value>
+    <value>Password(Optional)</value>
   </data>
   <data name="TbId5" xml:space="preserve">
     <value>UUID(id)</value>
   </data>
   <data name="TbSecurity3" xml:space="preserve">
-    <value>Шифрование</value>
+    <value>Encryption</value>
   </data>
   <data name="TbSecurity4" xml:space="preserve">
-    <value>Пользователь(Необязательно)</value>
+    <value>User(Optional)</value>
   </data>
   <data name="TbSecurity5" xml:space="preserve">
-    <value>Шифрования</value>
+    <value>Encryption</value>
   </data>
   <data name="TbPreSocksPort" xml:space="preserve">
-    <value>txtPreSocksPort</value>
+    <value>Socks port</value>
   </data>
   <data name="TipPreSocksPort" xml:space="preserve">
-    <value>* После установки этого значения служба socks будет запущена с использованием Xray/sing-box(Tun) для обеспечения таких функций, как отображение скорости</value>
+    <value>* After setting this value, an socks service will be started using Xray/sing-box(Tun) to provide functions such as speed display</value>
   </data>
   <data name="TbBrowse" xml:space="preserve">
-    <value>Просмотр</value>
+    <value>Browse</value>
   </data>
   <data name="TbEdit" xml:space="preserve">
-    <value>Редактировать</value>
+    <value>Edit</value>
   </data>
   <data name="TbSettingsAdvancedProtocol" xml:space="preserve">
-    <value>Расширенные настройки прокси, выбор протокола (необязательно)</value>
+    <value>Advanced proxy settings, protocol selection (optional)</value>
   </data>
   <data name="TbSettingsAllowLAN" xml:space="preserve">
-    <value>Разрешить подключения из локальной сети</value>
+    <value>Allow connections from the LAN</value>
   </data>
   <data name="TbSettingsAutoHideStartup" xml:space="preserve">
-    <value>Автоскрытие при автозапуске</value>
+    <value>Auto hide startup</value>
   </data>
   <data name="TbSettingsAutoUpdateInterval" xml:space="preserve">
-    <value>Интервал автоматического обновления Geo в часах</value>
-  </data>
-  <data name="LvAutoUpdateInterval" xml:space="preserve">
-    <value>Интервал автоматического обновления в минутах</value>
+    <value>Automatic update interval of Geo (hours)</value>
   </data>
   <data name="TbSettingsCore" xml:space="preserve">
-    <value>Ядро: базовые настройки</value>
+    <value>Core: basic settings</value>
   </data>
   <data name="TbSettingsCoreDns" xml:space="preserve">
-    <value>Настройки DNS V2ray</value>
-  </data>
-  <data name="TbSettingsCoreDnsSingbox" xml:space="preserve">
-    <value>Настройки DNS sing-box</value>
+    <value>V2ray DNS settings</value>
   </data>
   <data name="TbSettingsCoreKcp" xml:space="preserve">
-    <value>Ядро: настройки KCP</value>
+    <value>Core: KCP settings</value>
   </data>
   <data name="TbSettingsCoreType" xml:space="preserve">
-    <value>Настройки типа ядра</value>
+    <value>CoreType settings</value>
   </data>
   <data name="TbSettingsDefAllowInsecure" xml:space="preserve">
-    <value>Разрешить небезопасные</value>
+    <value>AllowInsecure</value>
   </data>
   <data name="TbSettingsDomainStrategy4Freedom" xml:space="preserve">
     <value>Outbound Freedom domainStrategy</value>
   </data>
   <data name="TbSettingsEnableAutoAdjustMainLvColWidth" xml:space="preserve">
-    <value>Автоматически регулировать ширину столбца после обновления подписки</value>
+    <value>Automatically adjust column width after updating subscription</value>
   </data>
   <data name="TbSettingsEnableCheckPreReleaseUpdate" xml:space="preserve">
-    <value>Проверить наличие предварительных обновлений</value>
+    <value>Check for pre-release updates</value>
   </data>
   <data name="TbSettingsException" xml:space="preserve">
-    <value>Исключение</value>
+    <value>Exception</value>
   </data>
   <data name="TbSettingsExceptionTip" xml:space="preserve">
-    <value>Исключение. Не используйте прокси-сервер для адресов, начинающихся с (,), используйте точку с запятой (;)</value>
+    <value>Exception. Do not use proxy server for addresses beginning with,Use semicolon (;)</value>
   </data>
   <data name="TbSettingsHttpPort" xml:space="preserve">
-    <value>HTTP порт</value>
+    <value>HTTP Port</value>
   </data>
   <data name="TbSettingsIgnoreGeoUpdateCore" xml:space="preserve">
-    <value>Игнорировать файлы Geo при обновлении ядра</value>
+    <value>Ignore Geo files when updating core</value>
   </data>
   <data name="TbSettingsKeepOlderDedupl" xml:space="preserve">
-    <value>Сохранить старые при удалении дублей</value>
+    <value>Keep older when deduplication</value>
   </data>
   <data name="TbSettingsLogEnabled" xml:space="preserve">
-    <value>Записывать логи</value>
+    <value>Enable Log</value>
   </data>
   <data name="TbSettingsLogLevel" xml:space="preserve">
-    <value>Уровень логгирования</value>
+    <value>Log Level</value>
   </data>
   <data name="TbSettingsMuxEnabled" xml:space="preserve">
-    <value>Включите мультиплексирование Mux</value>
+    <value>Turn on Mux Multiplexing</value>
   </data>
   <data name="TbSettingsN" xml:space="preserve">
-    <value>Настройки v2rayN</value>
+    <value>v2rayN settings</value>
   </data>
   <data name="TbSettingsPass" xml:space="preserve">
-    <value>Пароль аутентификации</value>
+    <value>Auth pass</value>
   </data>
   <data name="TbSettingsRemoteDNS" xml:space="preserve">
-    <value>Пользовательский DNS (если несколько делите с запятыми (,))</value>
+    <value>Custom DNS (multiple, separated by commas (,))</value>
   </data>
   <data name="TbSettingsSetUWP" xml:space="preserve">
     <value>Set Win10 UWP Loopback</value>
   </data>
   <data name="TbSettingsSniffingEnabled" xml:space="preserve">
-    <value>Включить сниффинг</value>
+    <value>Turn on Sniffing</value>
   </data>
   <data name="TbSettingsSocksPort" xml:space="preserve">
-    <value>Порт Socks</value>
+    <value>SOCKS Port</value>
   </data>
   <data name="TbSettingsStartBoot" xml:space="preserve">
-    <value>Автозапуск</value>
+    <value>Start on boot</value>
   </data>
   <data name="TbSettingsStatistics" xml:space="preserve">
-    <value>Включить статистику (требуется перезагрузка)</value>
+    <value>Enable Statistics (Require restart)</value>
   </data>
   <data name="TbSettingsSubConvert" xml:space="preserve">
-    <value>URL-адрес конверсии подписки</value>
+    <value>Subscription conversion URL</value>
   </data>
   <data name="TbSettingsSystemproxy" xml:space="preserve">
-    <value>Настройки системного прокси</value>
+    <value>System proxy settings</value>
   </data>
   <data name="TbSettingsTLS13" xml:space="preserve">
-    <value>Включить протокол безопасности TLS v1.3 (обновление подписки)</value>
+    <value>Enable Security Protocol TLS v1.3 (subscription/update)</value>
   </data>
   <data name="TbSettingsTrayMenuServersLimit" xml:space="preserve">
-    <value>Лимит серверов в меню трея</value>
+    <value>Tray right-click menu servers display limit</value>
   </data>
   <data name="TbSettingsUdpEnabled" xml:space="preserve">
-    <value>Включить UDP</value>
+    <value>Enable UDP</value>
   </data>
   <data name="TbSettingsUser" xml:space="preserve">
     <value>Auth user</value>
   </data>
   <data name="TbClearSystemProxy" xml:space="preserve">
-    <value>Очистить системный прокси</value>
+    <value>Clear system proxy</value>
   </data>
   <data name="TbDisplayGUI" xml:space="preserve">
-    <value>Показать GUI</value>
+    <value>Display GUI</value>
   </data>
   <data name="TbGlobalHotkeySetting" xml:space="preserve">
-    <value>Настройка горячих клавиш</value>
+    <value>Global Hotkey Settings</value>
   </data>
   <data name="TbGlobalHotkeySettingTip" xml:space="preserve">
-    <value>Установите непосредственно, нажав на клавиатуру, вступит в силу после перезапуска</value>
+    <value>Set directly by pressing the keyboard, take effect after restart</value>
   </data>
   <data name="TbNotChangeSystemProxy" xml:space="preserve">
-    <value>Не изменять системный прокси</value>
+    <value>Do not change system proxy</value>
   </data>
   <data name="TbReset" xml:space="preserve">
-    <value>Обнулить</value>
+    <value>Reset</value>
   </data>
   <data name="TbSetSystemProxy" xml:space="preserve">
-    <value>Установить системный прокси</value>
+    <value>Set system proxy</value>
   </data>
   <data name="TbSystemProxyPac" xml:space="preserve">
-    <value>Режим PAC</value>
+    <value>PAC mode</value>
   </data>
   <data name="menuShareServer" xml:space="preserve">
-    <value>Поделиться сервером (Ctrl+F)</value>
+    <value>Share Server (Ctrl+F)</value>
   </data>
   <data name="menuRouting" xml:space="preserve">
-    <value>Маршрутизация</value>
+    <value>Routing</value>
   </data>
   <data name="NotRunAsAdmin" xml:space="preserve">
-    <value>Пользователь</value>
+    <value>Not run as Admin</value>
   </data>
   <data name="RunAsAdmin" xml:space="preserve">
-    <value>Администратор</value>
+    <value>Run as Admin</value>
   </data>
   <data name="menuMoveBottom" xml:space="preserve">
-    <value>Спуститься вниз (B)</value>
+    <value>Move to bottom (B)</value>
   </data>
   <data name="menuMoveDown" xml:space="preserve">
-    <value>Вниз (D)</value>
+    <value>Down (D)</value>
   </data>
   <data name="menuMoveTop" xml:space="preserve">
-    <value>Подняться наверх (T)</value>
+    <value>Move to top (T)</value>
   </data>
   <data name="menuMoveUp" xml:space="preserve">
-    <value>Вверх (U)</value>
+    <value>Up (U)</value>
   </data>
   <data name="MsgFilterTitle" xml:space="preserve">
-    <value>Фильтр, поддерживает regex</value>
+    <value>Filter, support regular</value>
   </data>
   <data name="menuWebsiteItem" xml:space="preserve">
-    <value>{0} веб-сайт</value>
+    <value>{0} Website</value>
   </data>
   <data name="menuRoutingAdvanced" xml:space="preserve">
-    <value>Расширенная функция</value>
+    <value>Advanced Function</value>
   </data>
   <data name="menuRoutingAdvancedAdd" xml:space="preserve">
-    <value>Добавить</value>
+    <value>Add</value>
   </data>
   <data name="menuRoutingAdvancedImportRules" xml:space="preserve">
-    <value>Добавить расширенные правила</value>
+    <value>Import Advanced Rules</value>
   </data>
   <data name="menuRoutingAdvancedRemove" xml:space="preserve">
-    <value>Удалить выбранные</value>
+    <value>Remove selected (Delete)</value>
   </data>
   <data name="menuRoutingAdvancedSetDefault" xml:space="preserve">
-    <value>Установить как активное правило</value>
+    <value>Set as active rule(Enter)</value>
   </data>
   <data name="menuRoutingBasic" xml:space="preserve">
-    <value>Основные функции</value>
+    <value>Basic Function</value>
   </data>
   <data name="menuRoutingBasicImportRules" xml:space="preserve">
-    <value>Импорт основных правил</value>
+    <value>Import Basic Rules</value>
   </data>
   <data name="TbdomainMatcher" xml:space="preserve">
-    <value>Сопоставитель доменов</value>
+    <value>Domain Matcher</value>
   </data>
   <data name="TbdomainStrategy" xml:space="preserve">
-    <value>Доменная стратегия</value>
+    <value>Domain strategy</value>
   </data>
   <data name="TbenableRoutingAdvanced" xml:space="preserve">
-    <value>Включить расширенные функции</value>
+    <value>Enable advanced function</value>
   </data>
   <data name="TbRoutingTabBlock" xml:space="preserve">
-    <value>3.Заблокировать домен или IP</value>
+    <value>3.Block Domain or IP</value>
   </data>
   <data name="TbRoutingTabDirect" xml:space="preserve">
-    <value>2.Прямой домен или IP</value>
+    <value>2.Direct Domain or IP</value>
   </data>
   <data name="TbRoutingTabProxy" xml:space="preserve">
-    <value>1.Прокси-домен или IP</value>
+    <value>1.Proxy Domain or IP</value>
   </data>
   <data name="TbRoutingTabRuleList" xml:space="preserve">
-    <value>Предустановленный список наборов правил</value>
+    <value>Pre-defined Rule Set List</value>
   </data>
   <data name="TbRoutingTips" xml:space="preserve">
-    <value>* Установите правила, разделенные запятыми (,); Запятая в регулярке заменена на &lt;COMMA&gt;</value>
+    <value>*Set the rules, separated by commas (,); The comma in the regular is replaced by &lt;COMMA&gt;</value>
   </data>
   <data name="menuImportRulesFromClipboard" xml:space="preserve">
-    <value>Импорт правил из буфера обмена</value>
+    <value>Import Rules From Clipboard</value>
   </data>
   <data name="menuImportRulesFromFile" xml:space="preserve">
-    <value>Импорт правил из файла</value>
+    <value>Import Rules From File</value>
   </data>
   <data name="menuImportRulesFromUrl" xml:space="preserve">
-    <value>Импорт правил из URL</value>
+    <value>Import Rules From Subscription URL</value>
   </data>
   <data name="menuRoutingRuleSetting" xml:space="preserve">
-    <value>Настройка правил</value>
+    <value>Rule Settings</value>
   </data>
   <data name="menuRuleAdd" xml:space="preserve">
-    <value>Добавить правило</value>
+    <value>Add Rule</value>
   </data>
   <data name="menuRuleExportSelected" xml:space="preserve">
-    <value>Экспорт выделенных правил</value>
+    <value>Export Selected Rules</value>
   </data>
   <data name="menuRuleList" xml:space="preserve">
-    <value>Список правил</value>
+    <value>Rule List</value>
   </data>
   <data name="menuRuleRemove" xml:space="preserve">
-    <value>Удалить правила (Delete)</value>
+    <value>Remove Rule (Delete)</value>
   </data>
   <data name="menuRoutingRuleDetailsSetting" xml:space="preserve">
     <value>RoutingRuleDetailsSetting</value>
   </data>
   <data name="TbAutoSort" xml:space="preserve">
-    <value>Домен и IP автоматически сортируются при сохранении</value>
+    <value>Domain, ip, process are auto sorted when saving</value>
   </data>
   <data name="TbRuleobjectDoc" xml:space="preserve">
     <value>Ruleobject Doc</value>
   </data>
   <data name="TbDnsObjectDoc" xml:space="preserve">
-    <value>Поддержка DnsObject</value>
+    <value>Support DnsObject, Click to view the document</value>
   </data>
   <data name="SubUrlTips" xml:space="preserve">
-    <value>Необязательное поле</value>
+    <value>For group please leave blank here</value>
   </data>
   <data name="TipChangeRouting" xml:space="preserve">
-    <value>Настройки маршрутизации изменены</value>
+    <value>Routing setting is changed</value>
   </data>
   <data name="TipChangeSystemProxy" xml:space="preserve">
-    <value>Системные прокси изменены</value>
+    <value>System proxy setting is changed</value>
   </data>
   <data name="TbSettingsRouteOnly" xml:space="preserve">
-    <value>Только маршрут</value>
+    <value>RouteOnly</value>
   </data>
   <data name="TbSettingsNotProxyLocalAddress" xml:space="preserve">
-    <value>Не используйте прокси-серверы для локальных (интранет) адресов</value>
+    <value>Do not use proxy servers for local (intranet) addresses</value>
   </data>
   <data name="menuMixedTestServer" xml:space="preserve">
-    <value>Тест задержки и скорости всех серверов (Ctrl+E)</value>
+    <value>One-click multi test Latency and speed (Ctrl+E)</value>
   </data>
   <data name="LvTestDelay" xml:space="preserve">
-    <value>Задержка (ms)</value>
+    <value>Delay(ms)</value>
   </data>
   <data name="LvTestSpeed" xml:space="preserve">
-    <value>Скорость (M/s)</value>
+    <value>Speed(M/s)</value>
   </data>
   <data name="FailedToRunCore" xml:space="preserve">
-    <value>Не удалось запустить ядро, посмотрите логи</value>
+    <value>Failed to run Core, please see the log</value>
   </data>
   <data name="LvFilter" xml:space="preserve">
     <value>Remarks regular filter</value>
   </data>
   <data name="TbDisplayLog" xml:space="preserve">
-    <value>Показать логи</value>
+    <value>Display Log</value>
   </data>
   <data name="menuImportOldGuiConfig" xml:space="preserve">
-    <value>Импортировать старый конфиг guiNConfig</value>
+    <value>Import old config (guiNConfig)</value>
   </data>
   <data name="TbEnableTunAs" xml:space="preserve">
-    <value>Режим VPN</value>
+    <value>Enable Tun</value>
   </data>
   <data name="TbSettingsNewPort4LAN" xml:space="preserve">
-    <value>Новый порт для локальной сети</value>
+    <value>New Port for LAN</value>
   </data>
   <data name="TbSettingsTunMode" xml:space="preserve">
-    <value>Настройки TunMode</value>
+    <value>TunMode settings</value>
   </data>
   <data name="menuMoveToGroup" xml:space="preserve">
-    <value>Перейти в группу</value>
+    <value>Move to group</value>
   </data>
   <data name="TbSettingsEnableDragDropSort" xml:space="preserve">
-    <value>Включить сортировку перетаскиванием сервера (требуется перезагрузка)</value>
+    <value>Enable Server Drag Drop Sort(Require restart)</value>
   </data>
   <data name="TbAutoRefresh" xml:space="preserve">
-    <value>Автообновление</value>
+    <value>AutoRefresh</value>
   </data>
   <data name="SpeedtestingSkip" xml:space="preserve">
-    <value>Пропустить тест</value>
+    <value>Skip test</value>
   </data>
   <data name="menuEditServer" xml:space="preserve">
-    <value>Редактировать сервер (Ctrl+D)</value>
+    <value>Edit Server (Ctrl+D)</value>
   </data>
   <data name="TbSettingsDoubleClick2Activate" xml:space="preserve">
-    <value>Двойной клик чтобы сделать сервер активным</value>
+    <value>Double-click server make active</value>
   </data>
   <data name="SpeedtestingCompleted" xml:space="preserve">
-    <value>Тест завершен</value>
+    <value>Test completed</value>
   </data>
   <data name="TbSettingsDefFingerprint" xml:space="preserve">
-    <value>TLS отпечаток по умлочанию</value>
+    <value>Default TLS fingerprint</value>
   </data>
   <data name="TbSettingsDefUserAgent" xml:space="preserve">
     <value>User-Agent</value>
   </data>
   <data name="TbSettingsDefUserAgentTips" xml:space="preserve">
-    <value>Этот параметр действителен только для TCP/HTTP и WS</value>
+    <value>This parameter is valid only for tcp/http and ws</value>
   </data>
   <data name="TbSettingsCurrentFontFamily" xml:space="preserve">
-    <value>Шрифт (требуется перезагрузка)</value>
+    <value>FontFamily(Require restart)</value>
   </data>
   <data name="TbSettingsCurrentFontFamilyTip" xml:space="preserve">
-    <value>Скопируйте файл шрифта TTF/TTC в каталог guiFonts, перезапустите настройки</value>
+    <value>Copy the font TTF/TTC file to the directory guiFonts, restart the settings</value>
+  </data>
+  <data name="TbSettingsSocksPortTip" xml:space="preserve">
+    <value>http port = +1; Pac port = +4; *ray API port = +5; mihomo API port = +6;</value>
   </data>
   <data name="TbSettingsStartBootTip" xml:space="preserve">
-    <value>Установите это с правами администратора</value>
+    <value>Set this with admin privileges, get admin privileges after startup</value>
   </data>
   <data name="TbSettingsFontSize" xml:space="preserve">
-    <value>Размер шрифта</value>
-  </data>
-  <data name="TbSettingsEnableHWA" xml:space="preserve">
-    <value>Включить аппаратное ускорение (требуется перезагрузка)</value>
-  </data>
-  <data name="menuRebootAsAdmin" xml:space="preserve">
-    <value>Перезагрузить как администратор</value>
-  </data>
-  <data name="menuDNSSetting" xml:space="preserve">
-    <value>Настройки DNS</value>
-  </data>
-  <data name="TbSettingsLogEnabledToFile" xml:space="preserve">
-    <value>Включить логгирование в файл</value>
+    <value>Font Size</value>
   </data>
   <data name="TbSettingsSpeedTestTimeout" xml:space="preserve">
-    <value>Таймаут одиночного спидтеста</value>
+    <value>SpeedTest Single Timeout Value</value>
   </data>
   <data name="TbSettingsSpeedTestUrl" xml:space="preserve">
-    <value>URL спидтеста</value>
+    <value>SpeedTest URL</value>
+  </data>
+  <data name="menuMoveTo" xml:space="preserve">
+    <value>Move up and down</value>
+  </data>
+  <data name="TbPublicKey" xml:space="preserve">
+    <value>PublicKey</value>
+  </data>
+  <data name="TbShortId" xml:space="preserve">
+    <value>ShortId</value>
+  </data>
+  <data name="TbSpiderX" xml:space="preserve">
+    <value>SpiderX</value>
+  </data>
+  <data name="TbSettingsEnableHWA" xml:space="preserve">
+    <value>Enable hardware acceleration(Require restart)</value>
+  </data>
+  <data name="SpeedtestingWait" xml:space="preserve">
+    <value>Waiting for testing (press ESC to terminate)...</value>
+  </data>
+  <data name="TipDisplayLog" xml:space="preserve">
+    <value>Please turn off when there is an abnormal disconnection</value>
+  </data>
+  <data name="MsgSkipSubscriptionUpdate" xml:space="preserve">
+    <value>Updates are not enabled, skip this subscription</value>
+  </data>
+  <data name="menuRebootAsAdmin" xml:space="preserve">
+    <value>Restart as Administrator</value>
+  </data>
+  <data name="LvMoreUrl" xml:space="preserve">
+    <value>More URLs, separated by commas; Subscription conversion will be invalid</value>
+  </data>
+  <data name="SpeedDisplayText" xml:space="preserve">
+    <value>{0} : {1}/s↑ | {2}/s↓</value>
+  </data>
+  <data name="LvAutoUpdateInterval" xml:space="preserve">
+    <value>Automatic update interval (minutes)</value>
+  </data>
+  <data name="TbSettingsLogEnabledToFile" xml:space="preserve">
+    <value>Enable logging to file</value>
+  </data>
+  <data name="LvConvertTarget" xml:space="preserve">
+    <value>Convert target type</value>
+  </data>
+  <data name="LvConvertTargetTip" xml:space="preserve">
+    <value>Please leave blank if no conversion is required</value>
+  </data>
+  <data name="menuDNSSetting" xml:space="preserve">
+    <value>DNS Settings</value>
+  </data>
+  <data name="TbSettingsCoreDnsSingbox" xml:space="preserve">
+    <value>sing-box DNS settings</value>
+  </data>
+  <data name="TbDnsSingboxObjectDoc" xml:space="preserve">
+    <value>Please fill in DNS Structure, Click to view the document</value>
+  </data>
+  <data name="TbSettingDnsImportDefConfig" xml:space="preserve">
+    <value>Click to import default DNS config</value>
+  </data>
+  <data name="TbdomainStrategy4Singbox" xml:space="preserve">
+    <value>sing-box domain strategy</value>
+  </data>
+  <data name="TbSettingsMux4SboxProtocol" xml:space="preserve">
+    <value>sing-box Mux Protocol</value>
+  </data>
+  <data name="TbRoutingRuleProcess" xml:space="preserve">
+    <value>Full process name (Tun mode)</value>
+  </data>
+  <data name="TbRoutingRuleIP" xml:space="preserve">
+    <value>IP or IP CIDR</value>
+  </data>
+  <data name="TbRoutingRuleDomain" xml:space="preserve">
+    <value>Domain</value>
+  </data>
+  <data name="menuAddHysteria2Server" xml:space="preserve">
+    <value>Add [Hysteria2] server</value>
+  </data>
+  <data name="TbSettingsHysteriaBandwidth" xml:space="preserve">
+    <value>Hysteria Max bandwidth (Up/Dw)</value>
+  </data>
+  <data name="TbSettingsUseSystemHosts" xml:space="preserve">
+    <value>Use System Hosts</value>
+  </data>
+  <data name="menuAddTuicServer" xml:space="preserve">
+    <value>Add [Tuic] server</value>
+  </data>
+  <data name="TbHeaderType8" xml:space="preserve">
+    <value>Congestion control</value>
+  </data>
+  <data name="LvPrevProfile" xml:space="preserve">
+    <value>Previous proxy remarks</value>
+  </data>
+  <data name="LvNextProfile" xml:space="preserve">
+    <value>Next proxy remarks</value>
+  </data>
+  <data name="LvPrevProfileTip" xml:space="preserve">
+    <value>Please make sure the remarks exists and is unique</value>
+  </data>
+  <data name="TbSettingsEnableExInbound" xml:space="preserve">
+    <value>Enable additional Inbound</value>
+  </data>
+  <data name="TbSettingsEnableIPv6Address" xml:space="preserve">
+    <value>Enable IPv6 Address</value>
+  </data>
+  <data name="menuAddWireguardServer" xml:space="preserve">
+    <value>Add [Wireguard] server</value>
+  </data>
+  <data name="TbPrivateKey" xml:space="preserve">
+    <value>PrivateKey</value>
+  </data>
+  <data name="TbReserved" xml:space="preserve">
+    <value>Reserved(2,3,4)</value>
+  </data>
+  <data name="TbLocalAddress" xml:space="preserve">
+    <value>Address(Ip,Ipv6)</value>
+  </data>
+  <data name="TbPath7" xml:space="preserve">
+    <value>obfs password</value>
+  </data>
+  <data name="TbRuleMatchingTips" xml:space="preserve">
+    <value>(Domain or IP or ProcName) and Port and Protocol and InboundTag =&gt; OutboundTag</value>
+  </data>
+  <data name="TbAutoScrollToEnd" xml:space="preserve">
+    <value>Auto ScrollToEnd</value>
+  </data>
+  <data name="TbSettingsSpeedPingTestUrl" xml:space="preserve">
+    <value>Speed Ping Test URL</value>
+  </data>
+  <data name="TbSettingsEnableUpdateSubOnlyRemarksExist" xml:space="preserve">
+    <value>Updating subscription, only determine remarks exists</value>
+  </data>
+  <data name="SpeedtestingStop" xml:space="preserve">
+    <value>Test terminating...</value>
+  </data>
+  <data name="TransportRequestHostTip5" xml:space="preserve">
+    <value>*grpc Authority</value>
+  </data>
+  <data name="menuAddHttpServer" xml:space="preserve">
+    <value>Add [Http] server</value>
+  </data>
+  <data name="TbSettingsEnableFragmentTips" xml:space="preserve">
+    <value>Use Xray and enable non-Tun mode, which conflicts with the group previous proxy</value>
+  </data>
+  <data name="TbSettingsEnableFragment" xml:space="preserve">
+    <value>Enable fragment</value>
+  </data>
+  <data name="TbSettingsEnableCacheFile4Sbox" xml:space="preserve">
+    <value>Enable cache file for sing-box (ruleset files)</value>
+  </data>
+  <data name="LvCustomRulesetPath4Singbox" xml:space="preserve">
+    <value>Custom the rule-set of sing-box</value>
+  </data>
+  <data name="NeedRebootTips" xml:space="preserve">
+    <value>Successful operation. Click the settings menu to reboot the app.</value>
+  </data>
+  <data name="menuOpenTheFileLocation" xml:space="preserve">
+    <value>Open the storage location</value>
+  </data>
+  <data name="TbSorting" xml:space="preserve">
+    <value>Sorting</value>
+  </data>
+  <data name="TbSortingChain" xml:space="preserve">
+    <value>Chain</value>
+  </data>
+  <data name="TbSortingDefault" xml:space="preserve">
+    <value>Default</value>
+  </data>
+  <data name="TbSortingDelay" xml:space="preserve">
+    <value>Delay</value>
+  </data>
+  <data name="TbSortingDownSpeed" xml:space="preserve">
+    <value>Download Speed</value>
+  </data>
+  <data name="TbSortingDownTraffic" xml:space="preserve">
+    <value>Download Traffic</value>
+  </data>
+  <data name="TbSortingHost" xml:space="preserve">
+    <value>Host</value>
+  </data>
+  <data name="TbSortingName" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="TbSortingNetwork" xml:space="preserve">
+    <value>Network</value>
+  </data>
+  <data name="TbSortingTime" xml:space="preserve">
+    <value>Time</value>
+  </data>
+  <data name="TbSortingType" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="TbSortingUpSpeed" xml:space="preserve">
+    <value>Upload Speed</value>
+  </data>
+  <data name="TbSortingUpTraffic" xml:space="preserve">
+    <value>Upload Traffic</value>
+  </data>
+  <data name="TbConnections" xml:space="preserve">
+    <value>Connections</value>
+  </data>
+  <data name="menuConnectionClose" xml:space="preserve">
+    <value>Close Connection</value>
+  </data>
+  <data name="menuConnectionCloseAll" xml:space="preserve">
+    <value>Close All Connection</value>
+  </data>
+  <data name="TbProxies" xml:space="preserve">
+    <value>Proxies</value>
+  </data>
+  <data name="menuRulemode" xml:space="preserve">
+    <value>Rule mode</value>
+  </data>
+  <data name="menuModeDirect" xml:space="preserve">
+    <value>Direct</value>
+  </data>
+  <data name="menuModeGlobal" xml:space="preserve">
+    <value>Global</value>
+  </data>
+  <data name="menuModeNothing" xml:space="preserve">
+    <value>Do not change</value>
+  </data>
+  <data name="menuModeRule" xml:space="preserve">
+    <value>Rule</value>
+  </data>
+  <data name="menuProxiesDelaytest" xml:space="preserve">
+    <value>Latency Test</value>
+  </data>
+  <data name="menuProxiesDelaytestPart" xml:space="preserve">
+    <value>Part Node Latency Test</value>
+  </data>
+  <data name="menuProxiesReload" xml:space="preserve">
+    <value>Refresh Proxies</value>
+  </data>
+  <data name="menuProxiesSelectActivity" xml:space="preserve">
+    <value>Select active node (Enter)</value>
+  </data>
+  <data name="TbSettingsDomainStrategy4Out" xml:space="preserve">
+    <value>Default domain strategy for outbound</value>
+  </data>
+  <data name="menuSetDefaultMultipleServer" xml:space="preserve">
+    <value>Multi-Server lowest latency</value>
+  </data>
+  <data name="TbSettingsMainGirdOrientation" xml:space="preserve">
+    <value>Main layout orientation(Require restart)</value>
+  </data>
+  <data name="menuSetDefaultLoadBalanceServer" xml:space="preserve">
+    <value>Multi-server load balancing</value>
+  </data>
+  <data name="TbSettingsDomainDNSAddress" xml:space="preserve">
+    <value>Outbound DNS address</value>
+  </data>
+  <data name="menuProfileAutofitColumnWidth" xml:space="preserve">
+    <value>Auto column width adjustment</value>
+  </data>
+  <data name="menuExport2ShareUrlBase64" xml:space="preserve">
+    <value>Export Base64-encoded Share Links to Clipboard</value>
+  </data>
+  <data name="menuExport2ClientConfigClipboard" xml:space="preserve">
+    <value>Export selected server for complete configuration to clipboard</value>
+  </data>
+  <data name="menuShowOrHideMainWindow" xml:space="preserve">
+    <value>Show or hide the main window</value>
+  </data>
+  <data name="UpdateStandalonePackageTip" xml:space="preserve">
+    <value>You are currently running a standalone package, please manually download the SelfContained.7z file to unzip and overwrite it!</value>
+  </data>
+  <data name="TbPreSocksPort4Sub" xml:space="preserve">
+    <value>Custom config socks port</value>
+  </data>
+  <data name="menuBackupAndRestore" xml:space="preserve">
+    <value>Backup and Restore</value>
+  </data>
+  <data name="menuLocalBackup" xml:space="preserve">
+    <value>Backup to local</value>
+  </data>
+  <data name="menuLocalRestore" xml:space="preserve">
+    <value>Restore from local</value>
+  </data>
+  <data name="menuRemoteBackup" xml:space="preserve">
+    <value>Backup to remote (WebDAV)</value>
+  </data>
+  <data name="menuRemoteRestore" xml:space="preserve">
+    <value>Restore from remote (WebDAV)</value>
+  </data>
+  <data name="menuLocalBackupAndRestore" xml:space="preserve">
+    <value>Local</value>
+  </data>
+  <data name="menuRemoteBackupAndRestore" xml:space="preserve">
+    <value>Remote (WebDAV)</value>
+  </data>
+  <data name="LvWebDavUrl" xml:space="preserve">
+    <value>WebDav Url</value>
+  </data>
+  <data name="LvWebDavUserName" xml:space="preserve">
+    <value>WebDav User Name</value>
+  </data>
+  <data name="LvWebDavPassword" xml:space="preserve">
+    <value>WebDav Password</value>
+  </data>
+  <data name="LvWebDavCheck" xml:space="preserve">
+    <value>WebDav Check</value>
+  </data>
+  <data name="LvWebDavDirName" xml:space="preserve">
+    <value>Remote folder name (optional)</value>
   </data>
 </root>
